@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi 👋, I'm Leonardo Cairo
 
-<!--
-**leocairos/leocairos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working in the technology solutions market since 2001, initially working with programming using technologies such as Delphi, Java, PHP, Firebird, MySQL, etc.
 
-Here are some ideas to get you started:
+Since 2011 working directly in the business areas, working in IT management and systems development, focusing on ERP system, implementing modules, managing projects, and extracting information from the database for decision making (BI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on developing systems using Javascript (Node + React JS + React Native).
+
+"Never stop learning."
+
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/leocairos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leocairos-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/leocairos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Leonardo%20Cairo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="http://lattes.cnpq.br/5046123483487889" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Leonardo%20Cairo-05122A?style=flat" alt="Lates CNPq"/>
+</a>
+</p>
