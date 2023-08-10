@@ -4,9 +4,9 @@ Working in the technology solutions market since 2001, initially working with pr
 
 Since 2011 working directly in the business areas, working in IT management and systems development, focusing on ERP system, implementing modules, managing projects, and extracting information from the database for decision making (BI).
 
-In 2019 I started studying and developing projects with using Javascript (Node + React JS + React Native) with Postgresql, MySQL and MongoDB.
+In 2019 I started studying and developing systems using Javascript (Node + React JS + React Native) with Postgresql, MySQL and MongoDB.
 
-Currently focused on WEB3-oriented development (cryptocurrencies, blockchain, decentralized applications).
+Recently dedicated to WEB 3.0 (cryptocurrencies, blockchain, decentralized applications).
 
 "Never stop learning."
 
