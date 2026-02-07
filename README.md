@@ -6,7 +6,7 @@ Since 2011 working directly in the business areas, working in IT management and 
 
 In 2019 I started studying and developing systems using Javascript (Node + React JS + React Native) with Postgresql, MySQL and MongoDB.
 
-Recently dedicated to WEB 3.0 (cryptocurrencies, blockchain, decentralized applications).
+Since 2022 dedicated to WEB 3.0 (cryptocurrencies, blockchain, decentralized applications).
 
 "Never stop learning."
 
