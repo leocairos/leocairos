@@ -1,12 +1,12 @@
 ### Hi 👋, I'm Leonardo Cairo
 
-Working in the technology solutions market since 2001, initially working with programming using technologies such as Delphi, Java, PHP, Firebird, MySQL, etc.
+Operating in the technology solutions market since 2001, initially with programming using technologies such as Delphi, Java, PHP, Firebird, MySQL, etc.
 
-Since 2011 working directly in the business areas, working in IT management and systems development, focusing on ERP system, implementing modules, managing projects, and extracting information from the database for decision making (BI).
+In 2011, I began working directly in the business area, managing IT and developing systems, focusing on ERP, module implementation, project management, and data modeling for decision-making with BI.
 
-In 2019 I started studying and developing systems using Javascript (Node + React JS + React Native) with Postgresql, MySQL and MongoDB.
+From 2019 onwards, I started studying and developing systems using Javascript (Node + React JS + React Native) with PostgreSQL, MySQL, and MongoDB.
 
-Since 2022 dedicated to WEB 3.0 (cryptocurrencies, blockchain, decentralized applications).
+And since 2022, I have dedicated myself to Web 3.0 (cryptocurrencies, blockchain, decentralized applications) and the crypto market (bots, on-chain analytics, investments).
 
 "Never stop learning."
 
